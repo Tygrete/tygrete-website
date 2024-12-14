@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Tygrete</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            text-align: center;
+        }
+        h1 {
+            color: #0056b3;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 10px 0;
+        }
+        footer {
+            position: absolute;
+            bottom: 10px;
+            font-size: 0.8rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Tygrete</h1>
+        <p>Your gateway to innovation and creativity!</p>
+    </header>
+    <footer>
+        &copy; 2024 Tygrete. All rights reserved.
+    </footer>
+</body>
+</html>
